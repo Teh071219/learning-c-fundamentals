@@ -1,3 +1,18 @@
+# --- Compilação (Binários e Objetos) ---
 *.exe
 *.o
 *.out
+*.obj
+
+# --- Arquivos do Sistema Operativo ---
+Thumbs.db
+.DS_Store
+
+# --- Configurações de Editores (Opcional, mas recomendado) ---
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# --- Arquivos temporários de log ---
+*.log
